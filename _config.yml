@@ -25,13 +25,13 @@ version: 1.0.0
 # About/contact
 author:
   name: Hyeyoon Cho
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  description: Leaving my marks
   gravatar:  # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/hyeyooncho
     github:    https://github.com/hyeyoon0808
     # facebook:  <hide>
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    email:     https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=hyeyooncho08@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -44,7 +44,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'https://github.com/hyeyoon0808'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
