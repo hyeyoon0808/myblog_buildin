@@ -59,7 +59,6 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/aurora.jpg
-  caption: 
 
 # Puglins
 mathjax: true # whether support mathjax
