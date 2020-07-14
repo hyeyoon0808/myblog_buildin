@@ -1,9 +1,9 @@
 # Site Info
-title: 'Hyeyoon Cho'
-tagline: 'Cho github blog'
+title: Hyeyoon Cho
+tagline: 'Github blog'
 description: 'Blog to leave what I've learnt and interested'
 baseurl: "/"
-url: https://hyeyoon0808.github.io
+url: http://hyeyoon0808.github.io
 logo: '/public/logo.png'
 
 # Site configurations
