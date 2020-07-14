@@ -1,7 +1,7 @@
 # Site Info
 title: Cho's record
 tagline: 'Github blog'
-description: 'Blog to leave what I've learnt and interested'
+description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://hyeyoon0808.github.io
 logo: '/public/logo.png'
