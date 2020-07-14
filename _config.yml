@@ -1,7 +1,7 @@
 # Site Info
 title: Hyeyoon Cho
-tagline: 'Cho's blog'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+tagline: 'Cho's github blog'
+description: 'Blog to leave what I've learnt and interested'
 baseurl: "/"
 url: http://hyeyoon0808.github.io
 logo: '/public/logo.png'
@@ -37,9 +37,17 @@ nav:
   Home:           
     - '/'
   Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - '/'
+    # - { Categories: '/blog/categories/' }
+    - { Project: '/project' }
+    - { TIL: '/blog/categories/#til' }
+    - { Algorithm: '/blog/categories/#algorithm' }
+    - { C++: '/blog/categories/#c++' }
+    - { Linux: '/blog/categories/#linux' }
+    - { AWS: '/blog/categories/#aws' }
+    - { Github blog: '/blog/categories/#blog' }
+    - { Talk: '/blog/categories/#talk' }
+    # - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
@@ -50,8 +58,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+  image: /public/img/aurora.jpg
+  caption: 
 
 # Puglins
 mathjax: true # whether support mathjax
