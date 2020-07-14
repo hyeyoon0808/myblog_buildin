@@ -36,10 +36,17 @@ author:
 nav:
   Home:           
     - '/'
-  Blog:           
+  Categories:           
     - '/'
     # - { Categories: '/blog/categories/' }
-
+    - { Project: '/project' }
+    - { TIL: '/blog/categories/#til' }
+    - { Algorithm: '/blog/categories/#algorithm' }
+    - { C++: '/blog/categories/#c++' }
+    - { Linux: '/blog/categories/#linux' }
+    - { AWS: '/blog/categories/#aws' }
+    - { Github blog: '/blog/categories/#blog' }
+    - { Talk: '/blog/categories/#talk' }
     # - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
