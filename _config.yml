@@ -39,7 +39,7 @@ nav:
   Categories:           
     - '/'
     # - { Categories: '/blog/categories/' }
-    - { Project: '/project' }
+    - { Project: '/blog/categories/#project' }
     - { TIL: '/blog/categories/#til' }
     - { Algorithm: '/blog/categories/#algorithm' }
     - { C++: '/blog/categories/#c++' }
