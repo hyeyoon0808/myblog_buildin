@@ -1,6 +1,6 @@
 # Site Info
 title: Hyeyoon Cho
-tagline: 'People call me hey you'
+tagline: 'Cho's blog'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: "/"
 url: http://hyeyoon0808.github.io
@@ -25,12 +25,11 @@ version: 1.0.0
 # About/contact
 author:
   name: Hyeyoon Cho
-  description: Learning and Achieving 
+  description: Passionate to experience many fields.
   gravatar:  # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/hyeyooncho
     github:    https://github.com/hyeyoon0808
-    # facebook:  <hide>
     email:     https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=hyeyooncho08@gmail.com
 
 # Navigation (2nd level links supported)
