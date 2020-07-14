@@ -1,5 +1,5 @@
 # Site Info
-title: Hyeyoon Cho
+title: Codinfox Lanyon
 tagline: 'Github blog'
 description: 'Blog to leave what I've learnt and interested'
 baseurl: "/"
@@ -26,7 +26,6 @@ version: 1.0.0
 author:
   name: Hyeyoon Cho
   description: Passionate to experience many fields.
-  gravatar:  # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/hyeyooncho
     github:    https://github.com/hyeyoon0808
@@ -39,19 +38,12 @@ nav:
   Categories:           
     - '/'
     # - { Categories: '/blog/categories/' }
-    - { Project: '/blog/categories/#project' }
-    - { TIL: '/blog/categories/#til' }
-    - { Algorithm: '/blog/categories/#algorithm' }
-    - { C++: '/blog/categories/#c++' }
-    - { Linux: '/blog/categories/#linux' }
-    - { AWS: '/blog/categories/#aws' }
-    - { Github blog: '/blog/categories/#blog' }
-    - { Talk: '/blog/categories/#talk' }
+
     # - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
-    - 'https://github.com/hyeyoon0808'
+    - 'http://github.com/hyeyoon0808'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
