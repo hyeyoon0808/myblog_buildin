@@ -45,6 +45,7 @@ nav:
     - { C++: '/blog/categories/#c++' }
     - { Linux: '/blog/categories/#linux' }
     - { AWS: '/blog/categories/#aws' }
+    - { Docker: '/blog/categories/#docker' }
     - { Github blog: '/blog/categories/#blog' }
     - { Talk: '/blog/categories/#talk' }
     # - { Tags: '/blog/tags/' }
