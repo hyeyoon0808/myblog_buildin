@@ -3,8 +3,60 @@ Hi, I'm [Hyeyoon](https://github.com/hyeyoon0808) 👋
 
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-seoul-3c9)
-![visitors](https://hyeyoon0808-visitor-badge.glitch.me/badge?page_id=hyeyoon0808.github.profile)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
+</p>
+
+Here's my `Hyeyoon.toml`:
+
+```toml
+
+[personal]
+name = 'Hyeyoon Cho'
+city = 'Seoul, South Korea'
+email = 'hyeyooncho08 "at" gmail.com'
+
+[professional]
+currently-employed = false
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'AWS',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'java',
+  'python',
+  'html/css',
+  'react',
+  'tensorflow',
+]
+
+
+```
+
+I'm always interested in meeting new people, so feel free to reach out to me using the links below.
+
+<p align="center">
+  <a href="mailto:reisub0@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
+
+</p>
+<p align="left"> </p>
+
+
+
+⭐️ From [reisub0](https://github.com/[reisub0])
 
 <br />
 
