@@ -49,11 +49,4 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 
 
 
-⭐️ From [reisub0](https://github.com/[reisub0])
-
-<br />
-
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
-
-
-⭐️ From [windard](https://github.com/windard)
+⭐️ From [hyeyoon](https://github.com/[hyeyoon0808])
