@@ -1,23 +1,14 @@
-# Codinfox-Lanyon
+### Hello World
+Hi, I'm [Hyeyoon](https://github.com/hyeyoon0808) 👋
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+![age](https://img.shields.io/badge/age-24-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-shanghai-3c9)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
-**If you like this project, PLEASE give it a star.**
+<br />
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
-
-The theme supports: 
-
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
 
 
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+⭐️ From [windard](https://github.com/windard)
