@@ -4,10 +4,6 @@ Hi, I'm [Hyeyoon](https://github.com/hyeyoon0808) 👋
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
-</p>
-
 Here's my `Hyeyoon.toml`:
 
 ```toml
