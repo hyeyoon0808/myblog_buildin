@@ -1,9 +1,6 @@
 ### Hello World
 Hi, I'm [Hyeyoon](https://github.com/hyeyoon0808) 👋
 
-![age](https://img.shields.io/badge/age-24-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-
 Here's my `Hyeyoon.toml`:
 
 ```toml
