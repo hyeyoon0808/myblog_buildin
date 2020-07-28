@@ -3,8 +3,8 @@ Hi, I'm [Hyeyoon](https://github.com/hyeyoon0808) 👋
 
 ![age](https://img.shields.io/badge/age-24-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-shanghai-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
+![living](https://img.shields.io/badge/living-seoul-3c9)
+![visitors](https://hyeyoon0808-visitor-badge.glitch.me/badge?page_id=hyeyoon0808.github.profile)
 
 <br />
 
