@@ -1,23 +1,52 @@
-# Codinfox-Lanyon
+### Hello World
+Hi, I'm [Hyeyoon](https://github.com/hyeyoon0808) 👋
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+Here's my `Hyeyoon.toml`:
 
-**If you like this project, PLEASE give it a star.**
+```toml
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+[personal]
+name = 'Hyeyoon Cho'
+city = 'Seoul, South Korea'
+email = 'hyeyooncho08 "at" gmail.com'
 
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+[professional]
+currently-employed = false
 
-The theme supports: 
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'AWS',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'java',
+  'python',
+  'html/css',
+  'react',
+  'tensorflow',
+]
 
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
+
+```
+
+I'm always interested in meeting new people, so feel free to reach out to me using the links below.
+
+<p align="center">
+  <a href="mailto:hyeyooncho08@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/hyeyooncho"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeyoon0808&show_icons=true" alt="hyeyoon0808" /> 
+
+</p>
+<p align="left"> </p>
 
 
-## License
 
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+⭐️ From [hyeyoon](https://github.com/[hyeyoon0808])
